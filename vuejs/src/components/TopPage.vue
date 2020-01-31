@@ -1,5 +1,5 @@
 <template>
-  <div class="hello">
+  <div class="irohasu">
     <h1>{{ msg }}</h1>
     test
   </div>
@@ -7,7 +7,7 @@
 
 <script>
 export default {
-  name: 'Vue Home Page',
+  name: 'TopPage',
   props: {
     msg: String
   }
@@ -28,6 +28,6 @@ li {
   margin: 0 10px;
 }
 a {
-  color: #42b983;
+  color: #b99316;
 }
 </style>
